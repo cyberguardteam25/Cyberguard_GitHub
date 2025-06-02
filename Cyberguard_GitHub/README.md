@@ -3,6 +3,9 @@
 
 CyberGuard is an all-in-one Android cybersecurity toolkit designed for everyday users. It provides real-time threat detection, link and QR code scanning, and system checks through a clean, user-friendly interface. Built with Kotlin, CyberGuard leverages machine learning and backend APIs to offer intelligent, fast, and secure protection for mobile devices.
 
+#To view the full CyberGuard application code, check this link:
+https://github.com/cyberguardteam25/Cyberguard.git
+
 #To Download the App, access this link and click on download raw:
 https://github.com/cyberguardteam25/Cyberguard_GitHub/blob/main/Cyberguard_GitHub/CyberGuard.apk
 
